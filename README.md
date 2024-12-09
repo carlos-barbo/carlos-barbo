@@ -10,11 +10,8 @@ Também comecei a cursar Engenharia de Software (bacharelado) no formato EAD.
 
 ## Conecte-se comigo <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/thumbs-up_1f44d.gif" width="5%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/lucassterra/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/lucas_terra/)
-[![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/trra.Lucas/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/lucas_tterra/)
-[![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://www.t.me/Pr0L_0ndo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/carlos-barbo/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/dutra.img/)
 
 <br>
 
@@ -42,9 +39,9 @@ Também comecei a cursar Engenharia de Software (bacharelado) no formato EAD.
 <br>
 
 ## GitHub stats <img src="https://emojigraph.org/media/facebook/chart-increasing_1f4c8.png" width="5%">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucass-trra&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos-barbo&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucass-trra&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlos-barbo&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <br>
 
