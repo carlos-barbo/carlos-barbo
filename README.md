@@ -21,8 +21,6 @@
     [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev) 
 ## Projetos Criativos
 
-🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
+🎨 Aqui estão alguns dos meus projetos:
 
-1. [Projeto 1](https://github.com/[seu-usuario]/projeto1): 
-2. [Projeto 2](https://github.com/[seu-usuario]/projeto2): 
-3. [Projeto 3](https://github.com/[seu-usuario]/projeto3): 
+1. [Clojure - Bank](https://github.com/carlos-barbo/clojure-bank): 
