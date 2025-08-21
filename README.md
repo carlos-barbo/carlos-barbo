@@ -6,7 +6,7 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python, kotlin, clojure)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,kotlin,clojure)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=spring,react)](https://skillicons.dev)
