@@ -23,4 +23,6 @@
 
 🎨 Aqui estão alguns dos meus projetos:
 
-1. [Clojure - Bank](https://github.com/carlos-barbo/clojure-bank): 
+1. [Clojure - Bank](https://github.com/carlos-barbo/clojure-bank):
+2. [Java - Products Manager](https://github.com/carlos-barbo/Java-ProductManager): 
+
