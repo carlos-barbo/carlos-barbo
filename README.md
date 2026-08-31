@@ -6,7 +6,7 @@ Fullstack developer from **Taquari, Brazil**, with 2+ years shipping web product
 - 🎨 Helped establish the team's frontend **conventions, design tokens and code standards**.
 - 💬 Currently working on a **WhatsApp-integrated CRM and customer support platform**, with automation funnels and AI agents (see project below).
 
-I care about readable code, sensible defaults, and software that's still easy to maintain six months later. I also spent ~6 months in Australia on an English immersion program, so I'm comfortable working in global teams.
+I care about readable code, sensible defaults, and software that's still easy to maintain.
 
 > *"Debug the assumption first, then the code."* — a rule I learned the hard way
 
