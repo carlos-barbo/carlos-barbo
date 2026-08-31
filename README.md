@@ -85,8 +85,6 @@ Fullstack platform combining CRM, customer support, automations, sales funnels a
 
 </div>
 
-> ⚠️ This needs a GitHub Action running on your profile repo (`carlos-barbo/carlos-barbo`) to auto-generate the SVG — let me know if you haven't set that up yet and I'll help with the workflow.
-
 ---
 
 ## ☕ Coffee-driven development
