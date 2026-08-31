@@ -1,15 +1,3 @@
-<img align="left" width="300" src="assets/baby-yoda.gif" alt="Grogu drawn in ASCII" />
-
-<a href="https://github.com/carlos-barbo"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=0C7EA8&center=true&vCenter=true&width=500&height=160&lines=Fullstack+Developer;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+TypeScript;Building+AI-powered+web+apps;Coffee-driven+development" alt="Carlos Barbo" /></a>
-
-<br clear="all"/>
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/carlos-barbo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;<a href="https://github.com/carlos-barbo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> &nbsp;<a href="mailto:carlosbarbo88@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
-
 ## 🧠 About
 
 Fullstack developer from **Taquari, Brazil**, with 2+ years shipping web products end-to-end — from data model to pixel-perfect UI.
