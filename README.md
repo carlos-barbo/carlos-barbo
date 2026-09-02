@@ -1,6 +1,6 @@
 ## 🧠 About
 
-Fullstack developer from **Taquari, Brazil**, with 2+ years shipping web products end-to-end — from data model to pixel-perfect UI.
+Fullstack developer from **Taquari, Brazil**, with 2+ years shipping web products end-to-end, from data model to pixel-perfect UI.
 
 - 🤖 Build **configurable AI agents with tools** (function calling), front and back, for per-client automations.
 - 🎨 Helped establish the team's frontend **conventions, design tokens and code standards**.
